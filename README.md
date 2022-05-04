@@ -1,31 +1,22 @@
-### Hellow World!
+## Hellow World!
+### I am a Fullstack JavaScript developer 😎
 
-<p align="left">
-    <samp>My name is Iskandar.<br><br>
-        I am a Fullstack JavaScript developer. 😎
-    </samp>
-    <br><br>
-</p>
-
-<p align="left">
-    <samp>
-        You can check out my latest project here:
-        <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
-    </samp>
-</p>
+- 🌱 Currently trying to learn everything
+- 🥅 2022 Goals: Learn as many technologies as I can
+- ⚡ My motto: Education is my passion
+- 🤣 Fun fact: The hobby of a programmer is programming
+- You can check out my latest project here: <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
 
 ---
 ### You can reach me on:
-<br>
 <p align="left">
     <a target="_blank" href="mailto:iskandar.umarov@hotmail.com">
-        <img src="https://img.shields.io/badge/hotmail-blue?logo=email&logoColor=white&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/hotmail-blue?logo=gmail&logoColor=white&style=for-the-badge"/>
     </a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://t.me/iskandaru">
         <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>&nbsp;&nbsp;&nbsp;
 </p>
-<br>
 
 ---
 ### Languages and tools:
@@ -42,7 +33,7 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
-  ![Mui](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=mui&logoColor=369AD6)
+  ![Mui](https://img.shields.io/badge/Materialui-20232A?style=for-the-badge&logo=mui&logoColor=369AD6)
   ![Antdesign](https://img.shields.io/badge/ant%20design-20232A?style=for-the-badge&logo=antdesign)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
@@ -55,27 +46,13 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
   ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iskan-dar&hide_border=true&theme=redical)
 
   <br>
 
-  ![iskan-dar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iskan-dar&theme=radical)
-
-  <br>
-
-  ![iskan-dar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=iskan-dar&theme=radical)
-
-  <br>
-
   ![iskan-dar's github stats](https://github-readme-stats.vercel.app/api?username=iskan-dar&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br>
-
-  <div align="left">
-    <img src="https://github.com/iskan-dar/iskan-dar/blob/main/assets/rinnegan.gif" alt="header"/>
-  </div>
 
   <br>
 
