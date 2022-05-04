@@ -5,7 +5,7 @@
 - 🥅 2022 Goals: Learn as many frontend/backend/web3 technologies as I can 🤹
 - 🪜 My motto: Education is my passion 🍩
 - 🫠 Fun fact: The hobby of a programmer is programming 🤫
-- 💻 You can check out my latest project here: <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
+- 💻 Check out my latest project here: <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
 
 ---
 ### You can reach me on:
@@ -41,8 +41,6 @@
   ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
 
 </div>
-
-<br>
 
 ---
 
