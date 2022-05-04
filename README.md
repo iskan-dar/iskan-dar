@@ -1,11 +1,11 @@
-## Hellow World!
-### I am a Fullstack JavaScript developer 😎
+## Hellow World! 🤗
+### I am a Full Stack JavaScript developer 😎
 
-- 🌱 Currently trying to learn everything
-- 🥅 2022 Goals: Learn as many technologies as I can
-- ⚡ My motto: Education is my passion
-- 🤣 Fun fact: The hobby of a programmer is programming
-- You can check out my latest project here: <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
+- 🌱 Currently trying to learn everything 🙃
+- 🥅 2022 Goals: Learn as many frontend/backend/web3 technologies as I can 🤹
+- 🪜 My motto: Education is my passion 🍩
+- 🫠 Fun fact: The hobby of a programmer is programming 🤫
+- 💻 You can check out my latest project here: <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
 
 ---
 ### You can reach me on:
