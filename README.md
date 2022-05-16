@@ -1,3 +1,9 @@
+<div align="left">
+
+   ![](https://visitor-badge.glitch.me/badge?page_id=iskan-dar)
+
+  </div>
+
 ## Hellow World! 🤗
 ### I am a Full Stack JavaScript developer 😎
 
@@ -44,16 +50,21 @@
 
 ---
 
-<div align="center">
+<details>
+  <summary>GitHub activity graph</summary>
+  <div align="center">
 
-  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iskan-dar&hide_border=true&theme=redical)
+   ![iskan-dar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iskan-dar&hide_border=true&theme=redical)
 
-  <br>
+  </div>
 
-  ![iskan-dar's github stats](https://github-readme-stats.vercel.app/api?username=iskan-dar&show_icons=true&theme=radical&include_all_commits=true)
+</details>
 
-  <br>
+<details>
+  <summary>GitHub stats</summary>
+  <div align="center">
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=iskan-dar)
+   ![iskan-dar's github stats](https://github-readme-stats.vercel.app/api?username=iskan-dar&show_icons=true&theme=radical&include_all_commits=true)
 
-</div>
+  </div>
+</details>
