@@ -1,20 +1,10 @@
-<div align="left">
-
-   ![](https://visitor-badge.glitch.me/badge?page_id=iskan-dar)
-
-  </div>
-
 ## Hellow World! 🤗
 ### I am a Full Stack JavaScript developer 😎
 
-- 🌱 Currently trying to learn everything 🙃
-- 🥅 2022 Goals: Learn as many frontend/backend/web3 technologies as I can 🤹
-- 🪜 My motto: Education is my passion 🍩
-- 🫠 Fun fact: The hobby of a programmer is programming 🤫
-- 💻 Check out my latest project here: <a href="https://github.com/iskan-dar/galactic_miniatures" target="_blank">Galactic Miniatures</a>
+- 💻 Check out my latest project here: <a href="https://iskan-dar.github.io/crossy-road-threejs-reactjs/" target="_blank">Crossy Road CV</a>
 
 ---
-### You can reach me on:
+### My contacts
 <p align="left">
     <a target="_blank" href="mailto:iskandar.umarov@hotmail.com">
         <img src="https://img.shields.io/badge/hotmail-blue?logo=gmail&logoColor=white&style=for-the-badge"/>
